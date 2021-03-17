@@ -13,21 +13,22 @@ body {
   top: 50%;
 }
 .vertical {
-  left: 50%;
-  width: 1px;
   height: 100%;
+  width: 1px;
+  left: 50%;
 }
 .target {
   position: absolute;
+  transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
 }
 .tag {
   color: white;
   position: absolute;
+  font-size: 38px;
   top: 50%;
   left: 50%;
-  transform: translate(20px, 20px);
-  font-size: 38px;
+  margin: 20px;
+  /* transform: translate(20px, 20px); */
 }
