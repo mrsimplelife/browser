@@ -11,3 +11,8 @@ div {
 .special {
   background-color: pink;
 }
+aside {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
