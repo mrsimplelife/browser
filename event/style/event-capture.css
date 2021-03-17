@@ -1,0 +1,20 @@
+.outer {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+}
+
+.middle {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  background-color: thistle;
+  transform: translateY(50%);
+}
+
+button {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
