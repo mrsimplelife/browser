@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+div {
+  width: 250px;
+  height: 250px;
+  background-color: thistle;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+.special {
+  background-color: pink;
+}
