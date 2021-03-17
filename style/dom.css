@@ -1,0 +1,25 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+section {
+  width: 50%;
+  margin: 50px auto;
+  background-color: brown;
+  border-radius: 20px;
+  padding: 20px;
+}
+img {
+  z-index: 100;
+  will-change: opacity;
+}
+h1,
+h3,
+span {
+  color: white;
+}
